@@ -11,7 +11,9 @@ var constants = require('vz.constants');
 constants.NOOP(); // Does nothing
 constants.TRUE(); // Returns true
 constants.FALSE(); // Returns false
-constants.APPLY(console.log,['Hello','world'],console); // Calls Function.apply with given arguments
+
+// Calls Function.apply with given arguments
+constants.APPLY(console.log,['Hello','world'],console);
 
 window.onclick = constants.STOP; // Stops event propagation
 window.oncontextmenu = constants.PREVENT; // Prevents default
