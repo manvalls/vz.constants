@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/vz.constants.png?downloads=true)](https://nodei.co/npm/vz.constants/)
 
-## Example ussage:
+## Sample usage:
 
 ```javascript
 
