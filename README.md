@@ -2,6 +2,8 @@
 
 [![NPM](https://nodei.co/npm/vz.constants.png?downloads=true)](https://nodei.co/npm/vz.constants/)
 
+No piece of software is ever completed, feel free to contribute and be humble
+
 ## Sample usage:
 
 ```javascript
