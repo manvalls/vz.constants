@@ -1,6 +1,6 @@
 {
   "name": "vz.constants",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Several constants shared by vz libraries",
   "main": "main.js",
   "repository": {
